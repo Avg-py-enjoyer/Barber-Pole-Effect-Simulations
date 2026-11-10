@@ -1,0 +1,4 @@
+numpy
+matplotlib
+plotly        # optional: 3D helix viewer
+manim>=0.18   # optional: Manim scenes (also needs ffmpeg; LaTeX only if you use MathTex)
