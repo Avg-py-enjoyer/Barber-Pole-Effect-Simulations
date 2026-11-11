@@ -320,7 +320,8 @@ manim -pqk manim_scenes.py <SceneName>
 ## 👥 Authors & Attribution
 
 * **Simulation, Theory & Architecture**: Kartik Khare, Aneesh Bhate, Dhairya Nisar, Gouri Mittal
-* **Course Context**: *PH3050 / Engineering Optics*
+* **Course Context**: *Made for PH3050 / Engineering Optics*
+* **Professor**: *Dr. Arif Warsi Laskar*
 * **Inspirations**: 
   - 3Blue1Brown's visual exposition on *Polarization & Optical Activity*
   - Biot (1815) & Cauchy (1836) classical dispersion treatises
